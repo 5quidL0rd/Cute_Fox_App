@@ -21,12 +21,12 @@ pip install PySide6 duckduckgo-search beautifulsoup4 requests
 ## Run the app
 
 ```bash
-python CuteApp.py
+python3 CuteApp.py
 ```
 
 ## Screenshot
 
-
+![Example](Screenshot%202025-05-28%20130746.png) 
 
 ---
 
